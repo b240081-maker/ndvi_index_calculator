@@ -1,0 +1,10 @@
+streamlit
+rasterio
+numpy
+scikit-learn
+matplotlib
+plotly
+folium
+streamlit-folium
+opencv-python-headless
+imageio
